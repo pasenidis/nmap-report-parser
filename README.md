@@ -4,6 +4,7 @@ by Edward Pasenidis
 
 ## Purpose
 > Context: SSH users granted to external engineers are usually lacking `write` permission so you cannot output XML on Nmap
+
 Quickly generating reports from classic Nmap output. No dependencies.
 
 ## How to use
